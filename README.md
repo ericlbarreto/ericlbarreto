@@ -1,8 +1,26 @@
 <div>
-<p><a><img src="" width="100%" height="auto"/></a></p>
+<p><a><img src="https://github.com/ericlbarreto/ericlbarreto/blob/main/images/banner%20github.png?raw=true" width="100%" height="auto"/></a></p>
 </div>
 
-## Contatos:
+## 👋 Welcome:
+Hello, my name is Eric Barreto, I was born in Piauí and I'm currently studying Information Systems at CIn-UFPE, I'm 18 years old and I'm very interested in programming, software solutions, design, technological innovations and much more.
+
+## 📚 Currently studying:
+- Python
+- Design (Illustrator, Photoshop, Logos, Sites...)
+- Elementor/Wordpress
+- Entrepreneurship and Innovation
+- Startups
+
+## 🚀 Ambitions
+- TypeScript
+- React
+- JavaScript
+- BackEnd (NodeJS...)
+- Database
+
+
+## 📲 Contacts:
 
 <div>
 <a href="https://instagram.com/ericlbarreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
