@@ -3,21 +3,23 @@
 </div>
 
 ## 👋 Welcome:
-Hello, my name is Eric Barreto, I was born in Piauí and I'm currently studying Information Systems at CIn-UFPE, I'm 18 years old and I'm very interested in programming, software solutions, design, technological innovations and much more.
+Hello, my name is Eric Barreto, I was born in Piauí and I'm currently studying Information Systems at CIn-UFPE, I'm 19 years old and i'm continuously working to build quality software.
 
-## 📚 Currently studying:
-- Python
-- Design (Illustrator, Photoshop, Logos, Sites...)
-- Elementor/Wordpress
-- Entrepreneurship and Innovation
-- Startups
-
-## 🚀 Ambitions
-- TypeScript
+## 🎨 FrontEnd Stacks
+- Angular
 - React
-- JavaScript
-- BackEnd (NodeJS...)
-- Database
+- Next JS
+- React Native
+- React Router DOM
+
+## ⚙ BackEnd Stacks
+- Node JS
+- Express JS
+- NestJS
+- PostgreSQL
+- Sequelize
+- Prisma
+- Jest
 
 
 ## 📲 Contacts:
